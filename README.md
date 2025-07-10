@@ -1,17 +1,17 @@
 ## Olá! 👩‍💻 Eu sou a Isadora Ferreira Martins</h1>
 
 <p align="center">
-  Estudante de <strong>Tecnologia da Informação</strong> no <strong>SENAI</strong> <br/>
+  Estudante de <strong>Tecnologia da Informação</strong> no <strong>SENAI</strong> <br/> 
   Apaixonada por aprender, criar e crescer no mundo da programação 💻
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 👩‍🎓 Sobre mim
 
 - 🎓 Estudante dedicada no SENAI – curso de T.I
-- 💡 Conhecimentos em **JavaScript**, **VS Code** e **Git**
-- 🌱 Atualmente aprendendo novas tecnologias e boas práticas de programação
+- 🌱 Conhecimentos em **JavaScript**, **VS Code** e **Git**
+- 💡 Atualmente aprendendo novas tecnologias e boas práticas de programação
 - 🎯 Focada em crescer como desenvolvedora e construir soluções incríveis
 
 ---
@@ -42,5 +42,5 @@ Você pode me encontrar por aqui:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/isadoramartins.16?igsh=MTEzMzQxbHZkenVoaQ==)
 ---
 
-## Feito com 💙 por Isadora Ferreira Martins_
+## Feito com 💙 por Isadora Ferreira Martins
 
